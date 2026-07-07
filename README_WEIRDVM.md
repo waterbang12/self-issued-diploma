@@ -13,3 +13,8 @@ This repository area is intended for experiments, notes, and tools related to:
 
 > Note: This is a research branch for AI-assisted bytecode/translation experiments rather than production-ready code.
 
+potential explanation- not every binary representation can be expressed with a language(mabye-but likely) and there may be some cases where a sequence of binary acting exactly same as a script(or module) and is more faster- so this aims to close that gap
+
+or not
+
+or compiler optimizations and blocking bytecode is just awesome
